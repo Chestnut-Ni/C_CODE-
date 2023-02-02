@@ -1,0 +1,10 @@
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=0
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=1
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=2
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=3
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=4
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=5
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=6
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=7
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=8
+file:d:\vs2010\预处理\预处理\12.18.c:22 date:Dec 18 2022 time:18:07:57 i=9
